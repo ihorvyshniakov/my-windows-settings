@@ -1,0 +1,13 @@
+﻿theme
+{
+	name="modern"
+	dark=true
+	view=view.compact
+	background
+	{
+		color=auto
+		opacity=auto
+		effect=3
+	}
+	image.align=2
+}
