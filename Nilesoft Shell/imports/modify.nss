@@ -20,6 +20,10 @@ remove(find="*Надіслати*")
 remove(find="*Включити до бібліотеки*")
 remove(find="*На початковий екран*")
 remove(find="*Виправлення неполадок*")
+remove(find="*Повернути*")
+remove(find="*Транслювати*")
+remove(find="*Paint*")
+remove(find="*Редагувати*")
 
 modify(type="recyclebin" where=window.is_desktop and this.id==id.empty_recycle_bin pos=1 sep)
 
