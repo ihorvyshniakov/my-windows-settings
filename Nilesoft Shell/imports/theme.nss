@@ -2,7 +2,7 @@
 {
 	name="modern"
 	dark=true
-	view=view.compact
+	view=view.small
 	background
 	{
 		color=auto
