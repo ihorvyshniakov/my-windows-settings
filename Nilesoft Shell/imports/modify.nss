@@ -7,6 +7,7 @@ modify(mode=mode.multiple
 modify(find="*7-Zip*" title="Архіватор")
 modify(find="*Open with Code*" title="Відкрити у VS Code")
 modify(find="*Terminal*" title="Термінал")
+modify(find="*Open Git Bash here*" title="Відкрити Git Bash тут")
 	
 remove(find="*Graphics*")
 remove(find="Надати доступ*")
